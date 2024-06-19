@@ -58,7 +58,7 @@
 Clone the project
 
 ```bash
-Absolute-oreZ
+git clone https://github.com/Absolute-oreZ/quizzenia.git
 ```
 
 Go to the project directory
